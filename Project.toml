@@ -1,0 +1,20 @@
+name = "CoreEcoliModel"
+uuid = "a947cff8-3125-11e9-13e9-dd23feb87404"
+authors = ["varnerlab <jdv27@cornell.edu>"]
+version = "0.1.0"
+
+[deps]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+GLPK = "60bf3e95-4087-53dc-ae20-288a0d20c6a6"
+Gurobi = "2e9cd046-0924-5485-92f1-d5272153d98b"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+RowEchelon = "af85af4c-bcd5-5d23-b03a-a909639aa875"
+Sobol = "ed01d8cd-4d21-5b2a-85b4-cc3bdc58bad4"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
